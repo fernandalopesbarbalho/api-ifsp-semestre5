@@ -1,5 +1,5 @@
 # Desenvolvimento de APIs e Microsserviços
-Códigos produzidos durante o terceiro semestre de Análise e Desenvolvimento de Sistemas (IFSP), referentes à disciplina de Desenvolvimento para Desenvolvimento de APIs e Microsserviços.
+Códigos produzidos durante o quinto semestre de Análise e Desenvolvimento de Sistemas (IFSP), referentes à disciplina de Desenvolvimento para Desenvolvimento de APIs e Microsserviços.
 
 Nota final: 8,0.
 
